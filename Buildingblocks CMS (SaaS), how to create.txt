@@ -1,0 +1,14 @@
+Buildingblocks CMS (SaaS), how to create this (costs USD12/mo):
+Material-UI (Frontend)
+Node.js (Backend)
+MongoDB Atlas (DB)
+Mailgun (email)
+Cloudinary (media management)
+Digital Ocean (Server) USD10+ Snapshot? USD2
+GitHub Actions (CI/CD)
+CypressIO (End to End Testing Framework)
+
+crisp chat for user support/knowledge share (user feedback)
+
+
+
